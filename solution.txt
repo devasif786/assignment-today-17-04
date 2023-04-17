@@ -2,3 +2,4 @@ git restore <filename>: This command restores the specified file in the working 
 
 git restore --staged <filename>: This command restores the specified file in the staging area to the state it was in at the last commit. If the file was modified and staged, the changes will be removed from the staging area, but the modifications will still be present in the working directory.
 hello i am asifgit 
+hello
